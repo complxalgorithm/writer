@@ -22,5 +22,16 @@ div:focus {
 
 #content {
   padding-top: 10px;
+  padding-bottom: 15px;
   font-size: 24px;
+}
+
+#code-button {
+  position: relative;
+  float: left;
+}
+
+#file-button {
+  position: relative;
+  float: right;
 }
